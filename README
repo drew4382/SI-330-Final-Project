@@ -1,3 +1,3 @@
 This repository contains the code, output, and data sets used to create a predictive model for NBA 2K ratings based on previous 
 season statistics. The main variable used was a simpler version of PER found in a bleacher report article, the calculation can be found
-in the PER function definition in the final_project.ipnyb file.
+in the PER function definition in the final project.ipnyb file.
